@@ -2,7 +2,7 @@
 
 ‼️ This repository is not maintained anymore.
 
-[![Latest release](https://img.shields.io/github/release/bandesz/AirConnect-Synology.svg)](https://github.com/bandesz/AirConnect-Synology/releases/latest)
+[![Latest release](https://img.shields.io/github/release/Kahless0312/AirConnect-Synology.svg)](https://github.com/Kahless0312/AirConnect-Synology/releases/latest)
 
 A minimal Synology package for [AirConnect](https://github.com/philippe44/AirConnect
 ). It allows you to use AirPlay to stream to UPnP/Sonos & Chromecast devices.
@@ -11,7 +11,7 @@ A minimal Synology package for [AirConnect](https://github.com/philippe44/AirCon
 
 ### Download the pre-built Synology package
 
-You can find the available packages under [Releases](https://github.com/bandesz/AirConnect-Synology/releases) for three different architecture groups:
+You can find the available packages under [Releases](https://github.com/Kahless0312/AirConnect-Synology/releases) for three different architecture groups:
  * **ARMv7**: ipq806x armada370 armadaxp armada375 armada38x alpine alpine4k monaco comcerto2k
  * **ARMv8**: rtd1296
  * **Intel - 32-bit**: x86 cedarview bromolow evansport avoton braswell broadwell apollolake
